@@ -1,7 +1,9 @@
 ## 2.3 Parcurgere de puncte intermediare printr-o traiectorie Dubins
-Deadline: ```18 aprilie 2022, 23:59 Moodle UB```
+Deadline: ```Seara dinainte de prezentare mai 2022, 23:59 Moodle UB```
 
 :satellite: [Link PPT](https://docs.google.com/presentation/d/15mF5usbgJ3Nv0vp59ppluK4oTWnLE7Z11vyxeo4OXkc/edit?usp=sharing)
+
+[Calcularea distantelor/exemple](https://www.geogebra.org/calculator/v85gy86u)
 
 Pentru o listă de puncte intermediare dată, construiți traiectoria formată din
 primitive Dubins astfel încât să minimizați lungimea traiectoriei.
